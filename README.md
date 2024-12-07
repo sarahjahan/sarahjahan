@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋  I'm Sarah! 
 
-<!--
-**sarahjahan/sarahjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a personal project: PixelPath. 
+- 🌱 I’m currently learning Next.JS, Tailwind CSS and Typescript. 
+- 🤔 I’m looking for help with getting stronger in data structures and algorithms.
+- 💬 Ask me about creating full-stack React applications. 
+- 📫 Reach me at sarah-jahan@live.com
 
-Here are some ideas to get you started:
+## Let's connect 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sarahjahan/). 
+I'm always open to collaborations and new opportunities.  
+
+---
+
+## <p align="right">Check out some things I've made. 👇 </p>
+
+
+
+
