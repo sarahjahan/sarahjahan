@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sarah
+# Hi 👋  I'm Sarah~
 ## A design-minded full-stack developer from Toronto with a focus on beautiful interfaces and experiences. 👩🏽‍💻
 
 - 🔭 Check out my latest project: [PixelPath](https://pixelpath-kappa.vercel.app/).
