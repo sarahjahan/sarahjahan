@@ -2,15 +2,15 @@
 
 - 🔭 I’m currently transitioning to Software Engineering. 
 - 🌱 I’m currently learning Next.JS, Tailwind CSS and Typescript. 
-- 🤔 I’m looking for help with getting stronger in data structures and algorithms.
-- 💬 Ask me about creating full-stack React applications. 
-- 📫 Reach me at sarah-jahan@live.com
+- 💬 Ask me about creating full-stack React applications.
+- 🤔 I’m looking to find a fun project to work on solo or with others.
+- 📫 Email me at sarah-jahan@live.com if interested! 
 
 ## Let's connect 
 
 I love trying new things and challenging myself. 
 I'm always open to collaborations and new opportunities.  
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sarahjahan/). 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarahjahan/). 
 
 ---
 
