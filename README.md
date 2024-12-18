@@ -4,7 +4,6 @@
 - 🔭 Check out my latest project: [PixelPath](https://pixelpath-kappa.vercel.app/).
 - 📝 I’m currently transitioning to Software Engineering. 
 - 🌱 I’m currently learning Next.JS, Tailwind CSS and Typescript. 
-- 💬 Ask me about creating full-stack React applications.
 - 👯 I’m looking to collaborate on a fun project. 
 - 📫 Email me at [sarah-jahan@live.com](sarah-jahan@live.com) if interested! 
 
