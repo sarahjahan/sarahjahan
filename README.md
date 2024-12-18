@@ -1,5 +1,5 @@
 # Hi 👋  I'm Sarah~
-## A design-minded full-stack developer from Toronto with a focus on beautiful interfaces and experiences. 👩🏽‍💻
+### A design-minded full-stack developer from Toronto with a focus on beautiful interfaces and experiences. 👩🏽‍💻
 
 - 🔭 Check out my latest project: [PixelPath](https://pixelpath-kappa.vercel.app/).
 - 📝 I’m currently transitioning to Software Engineering. 
@@ -10,8 +10,7 @@
 
 ## Let's connect 
 
-I love trying new things and challenging myself. 
-I'm always open to collaborations and new opportunities.  
+I love trying new things, challenging myself and I'm always open to new opportunities and collaboration.  
 Feel free to connect with me on [Linkedin](linkedin.com/in/sarahjahan)!
 
 
