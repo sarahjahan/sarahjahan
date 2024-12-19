@@ -8,7 +8,7 @@
 
 ## Let's connect 
 
-I love trying new things, challenging myself and I'm always open to new opportunities and collaboration.  
+I love trying new things, challenging myself and I'm always open to new opportunities.  
 Feel free to connect with me on [Linkedin](linkedin.com/in/sarahjahan)!
 
 
