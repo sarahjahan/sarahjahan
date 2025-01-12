@@ -9,7 +9,7 @@
 ## Let's connect 
 
 I love trying new things, challenging myself and I'm always open to new opportunities.  
-Feel free to connect with me on [Linkedin](linkedin.com/in/sarahjahan)!
+Feel free to connect with me on [Linkedin](https://linkedin.com/in/sarahjahan)!
 
 
 ## <p align="right">Check out some things I've made. 👇 </p>
